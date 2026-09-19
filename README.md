@@ -19,3 +19,8 @@ This repository was created for my individual GitHub training assignment. It dem
 ## Training Progress
 
 I cloned this repository using GitHub Desktop and opened it locally in Visual Studio Code.
+
+
+## Branch Practice
+
+This update was created on a separate feature branch before being merged into main.
