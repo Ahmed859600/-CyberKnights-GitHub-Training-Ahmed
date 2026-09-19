@@ -15,3 +15,7 @@ This repository was created for my individual GitHub training assignment. It dem
 - Creating and managing branches
 - Merging a branch into main
 - Pushing changes to GitHub
+
+## Training Progress
+
+I cloned this repository using GitHub Desktop and opened it locally in Visual Studio Code.
